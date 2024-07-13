@@ -35,7 +35,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Reihan. Halaman ini dibuat hanya untuk pamer.</p>
+        <p>&copy; 2024 Reihan. Halaman ini dibuat hanya untuk belajar.</p>
     </footer>
 </body>
 </html>
